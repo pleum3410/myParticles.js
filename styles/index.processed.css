@@ -1,0 +1,31 @@
+/*  */
+div {
+  text-align: center;
+  width: 100%;
+  color: black;
+}
+
+div #particles-js {
+  position: absolute;
+  top: 0;
+  left: 0;
+  right: 0;
+  bottom: 0;
+  width: 100%;
+  background: white;
+  z-index: -10000;
+}
+
+div h1:first-of-type {
+  padding-top: 100px;
+}
+
+div h1 {
+  font-family: "Roboto", sans-serif;
+  font-size: 120px;
+  font-weight: 900;
+  padding: 0;
+  margin: 0;
+}
+
+/* div */
